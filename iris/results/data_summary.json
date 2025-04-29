@@ -1,0 +1,33 @@
+{
+    "total_rows": 150,
+    "total_columns": 6,
+    "missing_values": {
+        "Id": 0,
+        "SepalLengthCm": 0,
+        "SepalWidthCm": 0,
+        "PetalLengthCm": 0,
+        "PetalWidthCm": 0,
+        "Species": 0
+    },
+    "feature_means": {
+        "Id": 75.5,
+        "SepalLengthCm": 5.843333333333334,
+        "SepalWidthCm": 3.0540000000000003,
+        "PetalLengthCm": 3.758666666666666,
+        "PetalWidthCm": 1.1986666666666668,
+        "Species": 1.0
+    },
+    "feature_std": {
+        "Id": 43.445367992456916,
+        "SepalLengthCm": 0.828066127977863,
+        "SepalWidthCm": 0.4335943113621737,
+        "PetalLengthCm": 1.7644204199522626,
+        "PetalWidthCm": 0.7631607417008411,
+        "Species": 0.8192319205190405
+    },
+    "class_distribution": {
+        "0": 0.3333333333333333,
+        "1": 0.3333333333333333,
+        "2": 0.3333333333333333
+    }
+}

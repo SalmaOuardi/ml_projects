@@ -1,0 +1,28 @@
+# Ignore virtual environments
+ml-projects/
+env/
+venv/
+*/lib/
+*/bin/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
+# Ignore large data files
+*.csv
+*.dylib
+
+# Ignore VS Code settings (if present)
+.vscode/
+
+# Ignore virtualenv folders even inside project subfolders
+**/env/
+**/venv/
